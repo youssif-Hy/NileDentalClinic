@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youssif-hy.github.io/NileDentalClinic/sitemap.xml
